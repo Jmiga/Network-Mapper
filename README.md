@@ -3,7 +3,7 @@
 # Discovers nodes on the network using ARP Pings 
 
 
-#Usage
+# Usage
 $ sudo ./neighbourhood.py [-i <interface>]
 
 
